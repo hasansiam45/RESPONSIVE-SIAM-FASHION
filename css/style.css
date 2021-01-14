@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header section */
+header{
+    background-color: #fffbf0;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
+.main_heading, .card_p{
+    color:rgba(255, 166, 0, 0.781);
+}
+.heading_span, .women h2, .man h2, .card_heading,  .about_content_details h3, .location h2{
+    color: #363958;
+    font-weight: bold;
+}
+.header_img img{
+    width: 100%;
+}
+.my_header_btn{
+    background-color:#a4bc46;
+    color: #fff;
+    margin-bottom: 30px;
+}
+.navbar-nav a{
+    color: #000;
+    font-weight: bold;
+}
+
+
+
+/* women section */
+.women_img{
+    background-color: #f1f1f1;
+    margin-top: 30px;
+    border-radius: 8px;
+    height: 300px;
+    width: 250px;
+    padding: 10px;
+}
+.women_img img{
+    height: 100%;
+    width: 100%;
+}
+
+.card-body{
+
+    padding-left: 35px;
+    
+}
+.card_p{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.card{
+    border: 0;
+}
+
+
+/* about section */
+.about{
+    margin-top: 5%;
+}
+.about_img img{
+    width: 100%;
+}
+
+
+/* location section */
+.location{
+    background-color: rgba(128, 128, 128, 0.197);
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.location .col-md-6{
+    padding: 100px 40px;
+}
+.feedback textarea{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 20px;
+}
+.social_icons i{
+    font-size: 28px;
+    margin: 5px;
+    color: #363958;
+    cursor: pointer;
+}
+
+
